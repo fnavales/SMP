@@ -1,4 +1,4 @@
-###############################################
+﻿###############################################
 # Si quieres que no se suban algunas carpeta o
 # ficheros a git añadelos debajo
 ###############################################
@@ -15,3 +15,5 @@ __history
 *.sym
 *.tre
 *.xsym
+*.PWI
+*.DBK
