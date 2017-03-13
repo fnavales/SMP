@@ -1,0 +1,17 @@
+###############################################
+# Si quieres que no se suban algunas carpeta o
+# ficheros a git añadelos debajo
+###############################################
+
+# Carpetas
+__history
+
+# Extensiones
+*.ccspjt
+*.err
+*.esym
+*.lst
+*.STA
+*.sym
+*.tre
+*.xsym
