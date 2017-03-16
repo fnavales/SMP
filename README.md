@@ -9,7 +9,7 @@ Los primeros ejercicios los realizamos en el simulador "Proteus 7 Professional",
 ![dis1](https://github.com/fnavales/SMP/blob/master/circuitos/buttonDisplay.png?raw=true)
 ![dis2](https://github.com/fnavales/SMP/blob/master/circuitos/interrupciones.png?raw=true)
 
-## {Códigos Básicos](https://github.com/fnavales/SMP/tree/master/basicos)
+## [Códigos Básicos](https://github.com/fnavales/SMP/tree/master/basicos)
 
 + Ej1: Este ejercicio permite incrementar el display de 7 segmentos entre 0-F (hexadecimal). Para ello pulsamos el primer botón.
 
@@ -20,5 +20,3 @@ Los primeros ejercicios los realizamos en el simulador "Proteus 7 Professional",
 + Ej4: Usamos la directiva delay, junto al timer_0 para incrementar el contador cada segundo.
 
 + Ej5: Usamos el segundo diseño, al pulsar el botón provocamos una interrupción externa que incrementa el contador.
-
-en construcción...
